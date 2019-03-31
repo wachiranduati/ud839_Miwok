@@ -41,6 +41,7 @@
         <activity
             android:name=".FamilyActivity"
             android:label="@string/category_family"
+
             android:parentActivityName=".MainActivity">
             <!-- Parent activity meta-data to support 4.0 and lower -->
             <meta-data
